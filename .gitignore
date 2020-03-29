@@ -48,3 +48,7 @@ Temporary Items
 
 # mine
 *.pyc
+.venv
+
+checkpoints
+logger

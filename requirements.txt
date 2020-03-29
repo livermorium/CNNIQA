@@ -8,7 +8,7 @@ torch
 torchvision
 pytorch-ignite
 # tensorflow-gpu==2.0.0
-# tensorboardX==1.9
+tensorboardX==1.9
 
 pytest
 black
